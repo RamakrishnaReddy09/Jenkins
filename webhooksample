@@ -1,0 +1,2 @@
+jenkins webhook mconfiguration
+whenever developer made changes in code , jenkins triggers and fetch the latest code into jenkins server and build the package
